@@ -1,2 +1,2 @@
-# fahmiirzqmunthe_official
+# fahmiirzqmunthe
 Config files for my GitHub profile.
